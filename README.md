@@ -15,7 +15,7 @@ Course Staff
 
 Office Hours (TBD)
 ---
-Tuesday: 1 - 4PM w/Akim 
+Tuesday: 1 - 4PM w/Akim <br/>
 Friday: 1 - 4PM w/Akim
 
 Course Description
