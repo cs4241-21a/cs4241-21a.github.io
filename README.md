@@ -1,5 +1,12 @@
 *[Course Assignments & Due Dates](https://github.com/cs4241-21a/cs4241-21a.github.io/blob/main/cal.md)*
 
+# Webware
+
+Mondays / Thursdays 12:00–1:50  
+Fuller Labs, Lower Perreault
+
+Note that our first day of class is *Wednesday, August 25th*, as WPI will be following a Monday schedule that day. Also note that Monday September 6th is a holiday (Labor Day); no class will be held.
+
 Course Staff
 ---
 *Instructor*: Charlie Roberts (@cdroberts)  
