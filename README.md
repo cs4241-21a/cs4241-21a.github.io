@@ -11,10 +11,15 @@ Course Staff
 ---
 *Instructor*: Charlie Roberts (@cdroberts)  
 *TA*: Mikel Matticoli (@mamatticoli)  
-*TA*: Akim Ndlovu (@kimsta007) - Office Hours on Tuesdays and Fridays between 1pm and 4pm
+*TA*: Akim Ndlovu (@kimsta007) 
 
 Office Hours (TBD)
 ---
+Monday:  
+Tuesday: 1 - 4PM w/Akim 
+Wednesday:  
+Thursday:  
+Friday: 1 - 4PM w/Akim
 
 Course Description
 ---
