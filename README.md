@@ -13,7 +13,7 @@ Course Staff
 *TA*: Mikel Matticoli (@mamatticoli)  
 *TA*: Akim Ndlovu (@kimsta007) 
 
-Office Hours (TBD)
+Office Hours 
 ---
 Tuesday: 1 - 4PM w/Akim <br/>
 Friday: 1 - 4PM w/Akim
