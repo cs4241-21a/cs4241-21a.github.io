@@ -11,12 +11,15 @@ Course Staff
 ---
 *Instructor*: Charlie Roberts (@cdroberts)  
 *TA*: Mikel Matticoli (@mamatticoli)  
-*TA*: Akim Ndlovu (@kimsta007) 
+*TA*: Akim Ndlovu (@kimsta007)
 
 Office Hours 
 ---
-Tuesday: 1 - 4PM w/Akim <br/>
-Friday: 1 - 4PM w/Akim
+- Monday: 2 - 4PM w/ Mikel
+- Tuesday: 1 - 4PM w/Akim
+- Wednesday: 2 - 4PM w/ Mikel
+- Thursday: 2 - 4PM w/ Mikel
+- Friday: 1 - 4PM w/Akim
 
 Course Description
 ---
