@@ -17,10 +17,10 @@ Course Staff
 Office Hours 
 ---
 - Monday: 2 - 4PM w/ Mikel
-- Tuesday: 1 - 4PM w/Akim
-- Wednesday: 2 - 4PM w/ Mikel
+- Tuesday: 11AM - 1PM w/Margaret, 1 - 4PM w/Akim
+- Wednesday: 2 - 4PM w/ Mikel, 5 - 7PM w/Margaret
 - Thursday: 2 - 4PM w/ Mikel
-- Friday: 1 - 4PM w/Akim
+- Friday: 11AM - 1PM w/Margaret, 1 - 4PM w/Akim
 
 Course Description
 ---
