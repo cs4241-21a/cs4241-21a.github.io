@@ -31,7 +31,7 @@ in addition, several smaller assignments (completed individually) will also emph
 
 Students will be expected to use Git in this class and many assignments will be turned in using GitHub. Please begin familiarizing yourselves with 
 Git if you don't have prior experience with it; it will not be taught in the class. The course TAs can provide help with Git for those who need it; please take advantage of
-thir expertise!
+their expertise!
 
 Learning Goals
 ---
