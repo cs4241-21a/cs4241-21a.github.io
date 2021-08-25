@@ -12,6 +12,7 @@ Course Staff
 *Instructor*: Charlie Roberts (@cdroberts)  
 *TA*: Mikel Matticoli (@mamatticoli)  
 *TA*: Akim Ndlovu (@kimsta007)
+*SA*: Margaret Earnest (@meearnest)
 
 Office Hours 
 ---
