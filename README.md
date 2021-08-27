@@ -21,6 +21,8 @@ Office Hours
 - Wednesday: 2 - 4PM w/ Mikel, 5 - 7PM w/Margaret
 - Thursday: 2 - 4PM w/ Mikel
 - Friday: 11AM - 1PM w/Margaret, 1 - 4PM w/Akim
+- Saturday: 10AM - Noon w/Margaret
+- Sunday: Noon - 2PM w/Margaret
 
 Course Description
 ---
