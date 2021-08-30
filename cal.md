@@ -9,8 +9,8 @@ Readings:
 Topic: Basic Development and Client/Server communication  
 Development Assignment: [A2](https://github.com/cs4241-21a/a2-shortstack/blob/master/README.md) (due 09–9)  
 Readings:  
-- [You Don't Know JS: Up & Going]https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/ch2.md), chapter 2 (due 09-2)
-- [You Don't Know JS: Up & Going]https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/ch3.md), chapter 3 (due 09-2)
+- [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/ch2.md), chapter 2 (due 09-2)
+- [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/ch3.md), chapter 3 (due 09-2)
 - [How CSS Selectors Work](https://css-tricks.com/how-css-selectors-work/) (due 09-2)
 - [The Box Model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model) (due 09-2)
 - [Web Design in 4 minutes](https://jgthms.com/web-design-in-4-minutes/)(due 09-02)
