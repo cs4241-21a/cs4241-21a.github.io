@@ -19,14 +19,14 @@ Play (30 minutes each):
 - [Flexbox Froggy](https://flexboxfroggy.com/) (due 09-9)
 - [CSS Grid Garden](https://cssgridgarden.com/) (due 09-9)
 
-*9-6*
-Readings Due by 9/9:
+*9-6*  
+Readings Due by 9/9:  
 - [JavaScript Promises in Sixteen Minutes](https://medium.com/quick-code/javascript-promises-in-twenty-minutes-3aac5b65b887)
 - [Get Started with Debugging in Chrome Dev Tools](https://developers.google.com/web/tools/chrome-devtools/javascript/)
 - [How to Pause Your Code with Breakpoints in Chrome Dev Tools](https://developers.google.com/web/tools/chrome-devtools/javascript/breakpoints)
 - [CSS Layout](https://www.smashingmagazine.com/2018/05/guide-css-layout/)
 
-Readings Due by 9/13:
+Readings Due by 9/13:  
 - [Reframing Accessibility for the Web](https://alistapart.com/article/reframing-accessibility-for-the-web/)
 - [Chapters 1–6 of the Non-Designer's Design Book](https://wpi.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma9936734734504746&context=L&vid=01WPI_INST:Default&lang=en&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,non-designer%27s%20design%20book&sortby=rank&mode=basic)
 - [Chapters 1,2, and 3 from You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed/scope%20%26%20closures) (this will probably take a minimum of three hours)
