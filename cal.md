@@ -30,3 +30,14 @@ Readings Due by 9/13:
 - [Reframing Accessibility for the Web](https://alistapart.com/article/reframing-accessibility-for-the-web/)
 - [Chapters 1–6 of the Non-Designer's Design Book](https://wpi.primo.exlibrisgroup.com/discovery/fulldisplay?docid=cdi_safari_books_0321193857&context=PC&vid=01WPI_INST:Default&lang=en&search_scope=MyInst_and_CI&adaptor=Primo%20Central&tab=Everything&query=any,contains,non-designers%20design%20book)
 - [Chapters 1,2, and 3 from You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed/scope%20%26%20closures) (this will probably take a minimum of three hours)
+
+*9-9*  
+Asynchronous Lecture Videos:
+- [Events and Promises](https://web.microsoftstream.com/video/7662db82-c6cd-4341-bdf4-d464c1df551e?list=studio)
+- [Easier Servers w/ Express Part 1](https://web.microsoftstream.com/video/c25f084a-7a77-4b76-91a4-8c48548bc75c?list=studio)
+- [Easier Servers w/ Express Part 2](https://web.microsoftstream.com/video/7a5f4abd-9cae-4eeb-be87-5c5bb5ea9036?list=studio)
+
+Want to get a head start on using NoSQL databases? We'll be looking at a lot of this in class on Monday, but here's a preview: 
+- [MongoDB](https://web.microsoftstream.com/video/51b535a9-ebb0-44bf-b07e-dca84b7ec5d0?list=studio)
+
+Make sure to also complete the readings that are due on 9/13 (next Monday)! 
