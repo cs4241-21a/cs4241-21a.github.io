@@ -43,5 +43,5 @@ Want to get a head start on using NoSQL databases? We'll be looking at a lot of 
 Make sure to also complete the readings that are due on 9/13 (next Monday)! 
 
 *9-13*  
-Development Assignment: [A3](https://github.com/cs4241-21a/a3-persistence/blob/main/README.md) (due 09–20)  
+Development Assignment: [A3](https://github.com/cs4241-21a/a3-persistence/blob/main/README.markdown) (due 09–20)  
 
