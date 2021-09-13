@@ -43,13 +43,14 @@
 USER=xxxxx
 PASS=xxxxx
 HOST="cluster0-xxxxxxxx.mongodb.net"
-DB="xxxx?retryWrites=true&w=majority"
 ```
   - You can get all of the above information by going to Atlas > Clusters > Connect > Connect Your Application
   - Take a look at the [Collection API](http://mongodb.github.io/node-mongodb-native/3.3/api/Collection.html) to get
-    a feel for what is possible.  
+    a feel for what is possible.
   
 ### Basic connection:
+Make sure to replace `XXXtest` and `XXXtodos` with the name of your database and collection respectively.
+
 ```js
 const express = require( 'express' ),
       mongodb = require( 'mongodb' ),
@@ -58,7 +59,7 @@ const express = require( 'express' ),
 app.use( express.static('public') )
 app.use( express.json() )
 
-const uri = 'mongodb+srv://'+process.env.USER+':'+process.env.PASS+'@'+process.env.HOST+'/'+process.env.DB
+const uri = 'mongodb+srv://'+process.env.USER+':'+process.env.PASS+'@'+process.env.HOST
 
 const client = new mongodb.MongoClient( uri, { useNewUrlParser: true, useUnifiedTopology:true })
 let collection = null
@@ -66,7 +67,7 @@ let collection = null
 client.connect()
   .then( () => {
     // will only create collection if it doesn't exist
-    return client.db( 'test' ).createCollection( 'todos' )
+    return client.db( 'XXXtest' ).collection( 'XXXtodos' )
   })
   .then( __collection => {
     // store reference to collection
