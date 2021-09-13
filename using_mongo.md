@@ -44,6 +44,7 @@ USER=xxxxx
 PASS=xxxxx
 HOST="cluster0-xxxxxxxx.mongodb.net"
 ```
+  You can also use the [dotenv library](https://www.npmjs.com/package/dotenv) if you're doing local development / not using Glitch.
   - You can get all of the above information by going to Atlas > Clusters > Connect > Connect Your Application
   - Take a look at the [Collection API](http://mongodb.github.io/node-mongodb-native/3.3/api/Collection.html) to get
     a feel for what is possible.
