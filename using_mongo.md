@@ -118,7 +118,7 @@ particular documents for removal that match specified conditions.
 // assumes req.body takes form { _id:5d91fb30f3f81b282d7be0dd } etc.
 app.post( '/remove', (req,res) => {
   collection
-    .deleteOne({ _id:mongodb.ObjectID( req.body._id ) })
+    .deleteOne({ _id:mongodb.ObjectId( req.body._id ) })
     .then( result => res.json( result ) )
 })
 ```
@@ -130,7 +130,7 @@ We can use the [update operators](http://mongodb.github.io/node-mongodb-native/3
 app.post( '/update', (req,res) => {
   collection
     .updateOne(
-      { _id:mongodb.ObjectID( req.body._id ) },
+      { _id:mongodb.ObjectId( req.body._id ) },
       { $set:{ name:req.body.name } }
     )
     .then( result => res.json( result ) )
