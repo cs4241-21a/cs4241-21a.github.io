@@ -1,20 +1,23 @@
-full login / cookie example
+# Using Cookies
 
-Super simple login page for the cookie example server. Note that the "name" property of our form elements will be used to identify data sent to the server.
+This is the simplest example I could make of using server-side authentication with cookies.
+
+First we have a simple login page, no client-side JS required. Note that the "name" property of our form elements will be used to identify pieces data sent to the server. We use `POST` so that the username / password is not passed via a visible URL.
 
 ```html
 <!doctype html>
-<body>
-  <form action='/login' method='POST'>
-    <input type='text' name='username'>
-    <input type='password' name='password'>
-    <input type='submit'>
-  </form>
-</body>
+<html lang='en'>
+  <body>
+    <form action='/login' method='POST'>
+      <input type='text' name='username'>
+      <input type='password' name='password'>
+      <input type='submit'>
+    </form>
+  </body>
 </html>
 ```
 
-Below is an example server to process logins using cookies. You can assume `main.html`
+Below is an example server to process logins from the above HTML page using cookies. You can assume `main.html`
 is any arbitrary HTML page that shows content once the login is complete.
 
 ```js
