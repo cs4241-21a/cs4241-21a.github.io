@@ -50,7 +50,10 @@ app.post( '/login', (req,res)=> {
     req.session.login = true
     
     // since login was successful, send the user to the main content
-    res.sendFile( __dirname + '/public/main.html' )
+    // use redirect to avoid authentication problems when refreshing
+    // the page or using the back button, for details see:
+    // https://stackoverflow.com/questions/10827242/understanding-the-post-redirect-get-pattern 
+    res.redirect( 'main.html' )
   }else{
     // password incorrect, redirect back to login page
     res.sendFile( __dirname + '/public/index.html' )
