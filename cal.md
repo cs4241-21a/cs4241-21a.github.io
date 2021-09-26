@@ -45,8 +45,8 @@ Make sure to also complete the readings that are due on 9/13 (next Monday)!
 *9-13*  
 Development Assignment: [A3](https://github.com/cs4241-21a/a3-persistence/blob/main/README.markdown) (due 09–23)  
 
-*9-23*
-[Final Project](https://github.com/cs4241-21a/final_project) 
-Proposal due 9/27 at 11:59 PM
+*9-23*  
+[Final Project](https://github.com/cs4241-21a/final_project)  
+Proposal due 9/27 at 11:59 PM  
 Project due 10/11 at 11:59 AM (before start of class)
 
