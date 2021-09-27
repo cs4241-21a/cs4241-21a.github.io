@@ -3,14 +3,13 @@ The demo server for this example code has three routes to read, add, and update 
 
 ```js
 const express  = require( 'express' ),
-      app      = express(),
-      bp       = require( 'body-parser')
+      app      = express()
 
 const todos = [
   { name:'buy groceries', completed:false }
 ]
 
-app.use( bp.json() )
+app.use( express.json() )
 app.use( express.static( 'public' ) )
 
 app.get( '/read', ( req, res ) => res.json( todos ) )
