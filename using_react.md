@@ -133,6 +133,8 @@ There's a lot of boilerplate to get started, but here we're creating two differe
 The first is an item to represent a single Todo, while the second is our higher-level application. 
 Note that we pass data from our app component to each todo via the `props` object, which lets us pass data through HTML attributes. So, in our example above, each `Todo` is created with a `name` attribute, and that attribute is subsequently available in the `props` object of the associated `Todo`. You can see we also assign/access the `.completed` and `.onclick` property of each `Todo` in the same way.
 
+We also have introduced the `.state` property. In React, this is immutable, meaning you can't change values found inside of `.state`, you can only reset the state in its entirety. We to this using the `.setState` method of the `React.Component` superclass, and these changes in state are what effectivey trigger reactive changes in our UI.
+
 OK, last but not least we add functions or updaing our exising todos and adding new todos.
 
 ```js
@@ -145,7 +147,7 @@ OK, last but not least we add functions or updaing our exising todos and adding 
     })
   }
  
-  // add a new todo list
+  // add a new todo list item
   add( evt ) {
     const value = document.querySelector('input').value
 
@@ -156,6 +158,7 @@ OK, last but not least we add functions or updaing our exising todos and adding 
     })
     .then( response => response.json() )
     .then( json => {
+       // changing state triggers reactive behaviors
        this.setState({ todos:json }) 
     })
   }
