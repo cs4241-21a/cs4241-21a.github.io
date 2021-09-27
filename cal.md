@@ -50,3 +50,10 @@ Development Assignment: [A3](https://github.com/cs4241-21a/a3-persistence/blob/m
 Proposal due 9/27 at 11:59 PM  
 Project due 10/11 at 11:59 AM (before start of class)
 
+*9-27*  
+Assignment A4, due Oct. 4th by 11:59 AM  
+Choose one of the following:
+  - [Creative Coding](https://github.com/cs4241-21a/a4-creative-coding/blob/main/README.md)
+  - [Components/Reactive Programming](https://github.com/cs4241-21a/a4-components/blob/main/README.md)
+
+
