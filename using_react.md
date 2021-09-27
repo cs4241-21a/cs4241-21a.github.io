@@ -135,7 +135,7 @@ Note that we pass data from our app component to each todo via the `props` objec
 
 We also have introduced the `.state` property. In React, this is immutable, meaning you can't change values found inside of `.state`, you can only reset the state in its entirety. We to this using the `.setState` method of the `React.Component` superclass, and these changes in state are what effectivey trigger reactive changes in our UI.
 
-OK, last but not least we add functions or updaing our exising todos and adding new todos.
+OK, last but not least we add functions or updating our exising todos and adding new todos.
 
 ```js
   // when an Todo is toggled, send data to server
