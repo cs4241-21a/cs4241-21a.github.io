@@ -248,7 +248,7 @@ const express = require('express'),
 
 app.use( cors() )
 app.use( express.static('./') )
-app.listen( 5000 )
+app.listen( 3000 )
 ```
     
 * Once we've set up CORS, now we can load files:
@@ -257,6 +257,10 @@ app.listen( 5000 )
 audioElement.src = 'media/somefile.mp3'
 audioElement.play()
 ```
+
+One last gotcha to  note... if you're using Glitch to host your project, you need to change the [crossOrigin property](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes/crossorigin) to load audiofiles from Glitch's asset server:
+
+`audioElement.crossOrigin = 'anonymous'`
 
 ### All together now...
 
