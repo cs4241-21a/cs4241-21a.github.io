@@ -1,5 +1,3 @@
-# Quizzes
-
 # Things left to cover
   - D3
   - Realtime communication tech
