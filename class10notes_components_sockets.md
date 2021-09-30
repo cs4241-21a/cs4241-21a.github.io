@@ -93,8 +93,6 @@ export default App
 
 Need to access a parent component within a child? [Look into Refs](https://reactjs.org/docs/refs-and-the-dom.html)
 
-# D3
-
 ## Quick refresher on Svelte
 - Declarative reactive programming
 - Changes to variables should trigger changes to UI according to component templates
@@ -208,3 +206,6 @@ Then edit your App.js component:
   <h3>{msg}</h3>
 {/each}
 ```
+
+# D3
+[See the course handout on D3 + SVGs](https://github.com/cs4241-21a/cs4241-21a.github.io/blob/main/using_svg_and_d3.md)
