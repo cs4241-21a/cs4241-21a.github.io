@@ -115,7 +115,7 @@ const grandparent = {
   test() { console.log( 'proto:', this.value ) } 
 }
 const parent = Object.assign(
-  Object.create( A ),
+  Object.create( grandparent ),
   { value: 42 } // mixin
 )
 const child = Object.create( parent )
